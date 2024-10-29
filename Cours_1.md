@@ -1,12 +1,18 @@
-### Variables 
+## Variables 
 ```python
 a=20
 a="yuna"
 ```
-### Boucles
+## Boucles
 ```python
-for i in range(10,0, -1):
+for i in range(5,0, -1):
     print(i)
 ```
-### 
+## Résultat
+                5
+                4
+                3
+                2
+                1
+
 
