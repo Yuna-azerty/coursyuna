@@ -21,5 +21,12 @@
     #Affecter un nombre entre 1 et 20 à une variable
     #demander un nombre : si plus petit que celui à trouver, 
     # écrire "plus petit" sinon écrire "plus grand" et si le nombre est égal écrire "trouvé !"
-    
-    
+
+    nombre_a_trouver=
+nombre_rentre=0
+if nombre_rentre < nombre_a_trouver:
+        print("Plus grand")
+    elif nombre_rentre > nombre_a_trouver:
+        print("Plus petit")
+    else:
+        print("C'est ça")    
